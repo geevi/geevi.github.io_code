@@ -1,5 +1,5 @@
 +++
-title = " Derandomized Graph Product Results using the Low Degree Long Code."
+title = "Derandomized Graph Product Results using the Low Degree Long Code"
 date = "2015-02-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

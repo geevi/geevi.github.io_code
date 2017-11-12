@@ -1312,9 +1312,6 @@ div.alert a:hover {
   padding: 100px 0px 0px 0px;
 }
 
-.card {
-  min-height: 164px;
-}
 
 .home-section {
   padding: 100px 0px;
@@ -1322,4 +1319,11 @@ div.alert a:hover {
 
 .navbar-brand {
   text-transform: none
+}
+
+@media screen and (min-width: 930px){
+  .card {
+    min-height: 164px;
+  }
+  
 }

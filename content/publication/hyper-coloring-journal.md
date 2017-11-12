@@ -1,5 +1,5 @@
 +++
-title = "Super-polylogarithmic hypergraph coloring hardness via low-degree long codes."
+title = "Super-polylogarithmic hypergraph coloring hardness via low-degree long codes"
 date = "2017-02-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

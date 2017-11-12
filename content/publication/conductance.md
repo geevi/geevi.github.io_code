@@ -1,5 +1,5 @@
 +++
-title = "Conductance and eigenvalue."
+title = "Conductance and eigenvalue"
 date = "2010-02-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
