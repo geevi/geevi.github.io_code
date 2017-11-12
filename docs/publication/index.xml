@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on gv</title>
+    <link>http://geevi.github.io/publication/</link>
+    <description>Recent content in Publications on gv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Girish Varma</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes.</title>
+      <link>http://geevi.github.io/publication/hyper-coloring-journal/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/hyper-coloring-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressing Models for Recognizing Places</title>
+      <link>http://geevi.github.io/publication/compression-place/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/compression-place/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hardness of Approximate Coloring.</title>
+      <link>http://geevi.github.io/publication/thesis/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Characterization of Hard-to-cover CSPs</title>
+      <link>http://geevi.github.io/publication/characterization-covering/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/characterization-covering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Fortification of Projection Games</title>
+      <link>http://geevi.github.io/publication/fortification/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/fortification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing uniformity in Khot-Saket hypergraph coloring hardness reductions</title>
+      <link>http://geevi.github.io/publication/improved-khot-saket/</link>
+      <pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/improved-khot-saket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Derandomized Graph Product Results using the Low Degree Long Code.</title>
+      <link>http://geevi.github.io/publication/graph-prods/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/graph-prods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes.</title>
+      <link>http://geevi.github.io/publication/hyper-coloring/</link>
+      <pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/hyper-coloring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conductance and eigenvalue.</title>
+      <link>http://geevi.github.io/publication/conductance/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/conductance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playing games in an uncertain world</title>
+      <link>http://geevi.github.io/publication/playing-games/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/playing-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Physarum Can Compute Shortest Paths</title>
+      <link>http://geevi.github.io/publication/slime-mold2/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/slime-mold2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Physarum Can Compute Shortest Paths</title>
+      <link>http://geevi.github.io/publication/slime-mold/</link>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/slime-mold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Algorithms for Language Recognition Problems</title>
+      <link>http://geevi.github.io/publication/streaming2/</link>
+      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/streaming2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Algorithms for Some Problems in Log-Space</title>
+      <link>http://geevi.github.io/publication/streaming/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/streaming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
