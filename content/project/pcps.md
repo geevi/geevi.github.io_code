@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Hardness of Approximate Coloring"
+title = "Probabilitically Checkable Proofs"
 
 # Project summary to display on homepage.
-summary = "Improved lowerbounds for graph/hypergraph coloring."
+summary = "Improved PCPs using low-degree codes and using product constructions."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
@@ -28,5 +28,4 @@ math = false
 
 +++
 
-Improved lowerbounds for graph/hypergraph coloring.
-
+Improved PCPs using low-degree codes and product constructions.

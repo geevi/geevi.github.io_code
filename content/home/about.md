@@ -19,6 +19,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Postdoctoral Research"
+  institution = "Weizmann Institute of Science, Israel"
+  year = 2016
+
+[[education.courses]]
   course = "PhD in Computer Science"
   institution = "Tata Institute of Fundamental Research, Mumbai"
   year = 2015
@@ -26,7 +31,7 @@ weight = 5
 [[education.courses]]
   course = "MS in Computer Science"
   institution = "Tata Institute of Fundamental Research, Mumbai"
-  year = 2010
+  year = 2011
 
 [[education.courses]]
   course = "BTech in Computer Science & Eng."
@@ -36,7 +41,7 @@ weight = 5
 +++
 
 
-Girish Varma is a scientist of Machine Learning at the Machine Learning Lab at IIIT Hyderabad. His primary research topic is Deep Learning, specifically Model Compression techniques, Semantic Segmentation for Autonomous Navigation and Reinforcement Learning.
+Hi!,<br/>
+I am a scientist of Machine Learning at the Machine Learning Lab at IIIT Hyderabad. My primary research topic is Deep Learning, specifically Model Compression techniques, Semantic Segmentation for Autonomous Navigation and Reinforcement Learning.
 
-Previously he did his Phd thesis on Computational Complexity theory.
-He continues to have interest in Complexity theory, Combinatorics and Graph theory.
+Previously i did my Phd thesis on Computational Complexity theory and continues to have interest in Complexity theory, Combinatorics and Graph theory.

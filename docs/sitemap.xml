@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>http://geevi.github.io/publication/hyper-coloring-journal/</loc>
-      <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+      <loc>http://geevi.github.io/publication/compression-place/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>http://geevi.github.io/publication/compression-place/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>http://geevi.github.io/publication/hyper-coloring-journal/</loc>
+      <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -78,6 +78,33 @@
     <url>
     
       <loc>http://geevi.github.io/project/model-compression/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/project/physarum-computer/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/project/pcps/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/project/streaming/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,15 +185,6 @@
     
     <url>
     
-      <loc>http://geevi.github.io/publication/conductance/</loc>
-      <lastmod>2014-02-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://geevi.github.io/publication/playing-games/</loc>
       <lastmod>2014-02-10T00:00:00+00:00</lastmod>
     </url>
@@ -203,6 +221,15 @@
     
     <url>
     
+      <loc>http://geevi.github.io/publication/conductance/</loc>
+      <lastmod>2010-02-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://geevi.github.io/publication/streaming/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -223,7 +250,7 @@
     <url>
     
       <loc>http://geevi.github.io/publication_types/1/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -244,6 +271,16 @@
     
       <loc>http://geevi.github.io/publication_types/5/</loc>
       <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/tags/algorithms/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

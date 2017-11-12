@@ -1309,5 +1309,17 @@ div.alert a:hover {
 }
 
 #projects {
-  padding: 50px 0px;
+  padding: 100px 0px 0px 0px;
+}
+
+.card {
+  min-height: 164px;
+}
+
+.home-section {
+  padding: 100px 0px;
+}
+
+.navbar-brand {
+  text-transform: none
 }

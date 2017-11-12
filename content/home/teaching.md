@@ -15,5 +15,5 @@ weight = 6
 
 +++
 
-- [Computational Complexity Theory](https://cie.iiit.ac.in/aiml/), Sept - Nov 2017
+- [Computational Complexity Theory](https://geevi.github.io/teaching/complexity-theory/notes), Sept - Nov 2017
 - [Foundations of Artificial Intelligence and Machine Learning](https://cie.iiit.ac.in/aiml/), Jan 2018 

@@ -1,5 +1,5 @@
 +++
-title = " Physarum Can Compute Shortest Paths"
+title = "Physarum Can Compute Shortest Paths"
 date = "2011-09-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["streaming"]
+projects = ["physarum-computer"]
 
 # Links (optional).
 url_pdf =  "https://link.springer.com/chapter/10.1007/978-3-642-13562-0_10"

@@ -3,17 +3,17 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Hardness of Approximate Coloring"
+title = "Physarum Computer"
 
 # Project summary to display on homepage.
-summary = "Improved lowerbounds for graph/hypergraph coloring."
+summary = "Formal proof for slime-molds finding shortest paths in maze."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["complexity-theory"]
+tags = ["algorithms"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,6 +27,5 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-
-Improved lowerbounds for graph/hypergraph coloring.
+Formal proof for slime-molds finding shortest paths in maze.
 

@@ -21,7 +21,7 @@ publication = "*arXiv*."
 publication_short = "*arXiv*"
 
 # Abstract and optional shortened version.
-abstract = " Traditional game theory assumes that the players in the game are aware of the rules of the game. However, in practice, often the players are unaware or have only partial knowledge about the game they are playing. They may also have knowledge that other players have only partial knowledge of the game they are playing, which they can try to exploit. We present a novel mathematical formulation of such games. We make use of Kripke semantics, which are a way to keep track of what different players know and do not know about the world. We propose a notion of equilibrium for such games, and show that equilibrium always exists."
+abstract = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -32,15 +32,15 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["streaming"]
+#projects = ["streaming"]
 
 # Links (optional).
 #url_pdf =  "https://doi.org/10.1016/j.jtbi.2012.06.017"
-url_preprint = "https://arxiv.org/abs/1411.3517"
+url_preprint = "https://arxiv.org/abs/1402.4570"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "https://www.dropbox.com/s/mv391tfzysae7ee/slides.pdf?dl=0"
+#url_slides = "https://www.dropbox.com/s/mv391tfzysae7ee/slides.pdf?dl=0"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
@@ -63,3 +63,4 @@ url_slides = "https://www.dropbox.com/s/mv391tfzysae7ee/slides.pdf?dl=0"
 
 +++
 
+Traditional game theory assumes that the players in the game are aware of the rules of the game. However, in practice, often the players are unaware or have only partial knowledge about the game they are playing. They may also have knowledge that other players have only partial knowledge of the game they are playing, which they can try to exploit. We present a novel mathematical formulation of such games. We make use of Kripke semantics, which are a way to keep track of what different players know and do not know about the world. We propose a notion of equilibrium for such games, and show that equilibrium always exists.

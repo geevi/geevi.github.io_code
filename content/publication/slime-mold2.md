@@ -20,7 +20,7 @@ publication = "*Journal of Theoretical Biology, volume 309-0, pages 121 - 133, 2
 publication_short = "*JTB'12*"
 
 # Abstract and optional shortened version.
-abstract = "Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution. This matches the experimental observations by Tero et al. and can be seen as an example of a “natural algorithm”, that is, an algorithm developed by evolution over millions of years. Highlights ► A standard model for Physarum converges to the shortest path in any network. ► When flow directions stabilize, convergence to the shortest path is fast. ► Flow directions stabilize in series–parallel networks and Wheatstone networks."
+abstract = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -31,7 +31,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["streaming"]
+projects = ["physarum-computer"]
 
 # Links (optional).
 url_pdf =  "https://doi.org/10.1016/j.jtbi.2012.06.017"
@@ -61,4 +61,9 @@ url_pdf =  "https://doi.org/10.1016/j.jtbi.2012.06.017"
 #caption = "My caption :smile:"
 
 +++
+Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution. This matches the experimental observations by Tero et al. and can be seen as an example of a “natural algorithm”, that is, an algorithm developed by evolution over millions of years. 
 
+Highlights 
+► A standard model for Physarum converges to the shortest path in any network.
+► When flow directions stabilize, convergence to the shortest path is fast. 
+► Flow directions stabilize in series–parallel networks and Wheatstone networks.

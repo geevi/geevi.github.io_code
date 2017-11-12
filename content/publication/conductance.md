@@ -1,6 +1,6 @@
 +++
 title = "Conductance and eigenvalue."
-date = "2014-02-10"
+date = "2010-02-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [  "Girish Varma"]
@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["streaming"]
+#projects = ["streaming"]
 
 # Links (optional).
 #url_pdf =  "https://doi.org/10.1016/j.jtbi.2012.06.017"
