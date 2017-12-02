@@ -1,0 +1,27 @@
+{{- $scr := .Scratch -}}
+{{- $scr.Set "site" $.Site -}}
+
+{{- partial "css/parse_theme.css" . -}}
+
+{{- $scr.Set "css" (partial "css/academic.css" $scr) -}}
+
+{{/* Return parsed CSS. */}}
+{{- $scr.Get "css" -}}
+
+.home-section {
+	padding: 50px 0px;
+}
+
+.home-section:first-of-type {
+	padding: 20px 0px;
+}
+
+.card h4 {
+	padding:0px 0px 10px 0px;
+	margin:0px;
+}
+
+.card {
+	height: 150px;
+	margin-bottom: 1em;
+}
