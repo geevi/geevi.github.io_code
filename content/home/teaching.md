@@ -14,6 +14,7 @@ subtitle = ""
 weight = 6
 
 +++
-
-- [Computational Complexity Theory](https://geevi.github.io/teaching/complexity-theory/notes), Sept - Nov 2017
+- [Efficient CNNs (Reading Group)](/teaching/efficient-cnns), Jan 2018 
+- [Multi Object Tracking using MDPs and RL (Reading Group)](/teaching/mot), Jan 2018
 - [Foundations of Artificial Intelligence and Machine Learning](https://cie.iiit.ac.in/aiml/), Jan 2018 
+- [Computational Complexity Theory](/teaching/complexity-theory), Sept - Nov 2017

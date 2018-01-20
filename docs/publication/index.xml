@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on gv</title>
+    <link>http://geevi.github.io/publication/</link>
+    <description>Recent content in Publications on gv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Girish Varma</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Expander Networks: Efficient Deep Networks from Graph Theory</title>
+      <link>http://geevi.github.io/publication/xnet/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/xnet/</guid>
+      <description>&lt;p&gt;Deep Neural Networks, while being unreasonably effective for several vision tasks, have their usage limited by the computational and memory requirements, both during training and inference stages. Analyzing and improving the connectivity patterns between layers of a network has resulted in several compact architectures like GoogleNet, ResNet and DenseNet-BC. In this work, we utilize results from graph theory to develop an efficient connection pattern between consecutive layers. Specifically, we use {\it expander graphs} that have excellent connectivity properties to develop a sparse network architecture, the deep expander network (X-Net). The X-Nets are shown to have high connectivity for a given level of sparsity. We also develop highly efficient training and inference algorithms for such networks. Experimental results show that we can achieve the similar or better accuracy as DenseNet-BC with two-thirds the number of parameters and FLOPs on several image classification benchmarks. We hope that this work motivates other approaches to utilize results from graph theory to develop efficient network architectures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compressing Models for Recognizing Places</title>
+      <link>http://geevi.github.io/publication/compression-place/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/compression-place/</guid>
+      <description>&lt;p&gt;Visual place recognition on low memory devices such as mobile phones and robotics systems is a challenging problem. The state of the art models for this task uses deep learning architectures having close to 100 million parameters which takes over 400MB of memory. This makes these models infeasible to be deployed in low memory devices and gives rise to the need of compressing them. Hence we study the effectiveness of model compression techniques like trained quantization and pruning for reducing the number of parameters on one of the best performing image retrieval models called NetVLAD. We show that a compressed network can be created by starting with a model pre-trained for the task of visual place recognition and then fine-tuning it via trained pruning and quantization. The compressed model is able to produce the same mAP as the original uncompressed network. We achieve almost 50% parameter pruning with no loss in mAP and 70% pruning with close to 2% mAP reduction, while also performing 8-bit quantization. Furthermore, together with 5-bit quantization, we perform about 50% parameter reduction by pruning and get only about 3% reduction in mAP.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</title>
+      <link>http://geevi.github.io/publication/hyper-coloring-journal/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/hyper-coloring-journal/</guid>
+      <description>&lt;p&gt;We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on $n$-vertex hyper-graphs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 3-colorable 3-uniform hypergraph with $(log n)^{\Omega(1/logloglog n)}$ colors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In each of these cases, the hardness results obtained are (at least) exponentially stronger than what was previously known for the respective cases. In fact, prior to this result, polylog n colors was the strongest quantitative bound on the number of colors ruled out by inapproximability results for $O(1)$-colorable hypergraphs. The fundamental bottleneck in obtaining coloring inapproximability results using the low- degree long code was a multipartite structural restriction in the PCP construction of Dinur-Guruswami. We are able to get around this restriction by simulating the multipartite structure implicitly by querying just one partition (albeit requiring 8 queries), which yields our result for 2-colorable 8-uniform hypergraphs. The result for 4-colorable 4-uniform hypergraphs is obtained via a &amp;lsquo;query doubling&amp;rsquo; method. For 3-colorable 3-uniform hypergraphs, we exploit the ternary domain to design a test with an additive (as opposed to multiplicative) noise function, and analyze its efficacy in killing high weight Fourier coefficients via the pseudorandom properties of an associated quadratic form.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hardness of Approximate Coloring</title>
+      <link>http://geevi.github.io/publication/thesis/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/thesis/</guid>
+      <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Characterization of Hard-to-cover CSPs</title>
+      <link>http://geevi.github.io/publication/characterization-covering/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/characterization-covering/</guid>
+      <description>&lt;p&gt;We continue the study of covering complexity of constraint satisfaction problems (CSPs) initiated by Guruswami, Hastad and Sudan [SIAM J. Computing, 31(6):1663&amp;ndash;1686, 2002] and Dinur and Kol [In Proc. 28th IEEE Conference on Computational Complexity, 2013]. The covering number of a CSP instance $\phi$, denoted by ν(Φ) is the smallest number of assignments to the variables of $\phi$, such that each constraint of Φ is satisfied by at least one of the assignments. We show the following results regarding how well efficient algorithms can approximate the covering number of a given CSP instance.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Assuming a covering unique games conjecture, introduced by Dinur and Kol, we show that for every non-odd predicate P over any constant sized alphabet and every integer K, it is NP-hard to distinguish between P-CSP instances (i.e., CSP instances where all the constraints are of type P) which are coverable by a constant number of assignments and those whose covering number is at least K. Previously, Dinur and Kol, using the same covering unique games conjecture, had shown a similar hardness result for every non-odd predicate over the Boolean alphabet that supports a pairwise independent distribution. Our generalization yields a complete characterization of CSPs over constant sized alphabet Σ that are hard to cover since CSP&amp;rsquo;s over odd predicates are trivially coverable with |Σ| assignments.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;For a large class of predicates that are contained in the 2k-LIN predicate, we show that it is quasi-NP-hard to distinguish between instances which have covering number at most two and covering number at least Ω(loglogn). This generalizes the 4-LIN result of Dinur and Kol that states it is quasi-NP-hard to distinguish between 4-LIN-CSP instances which have covering number at most two and covering number at least Ω(logloglogn).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Fortification of Projection Games</title>
+      <link>http://geevi.github.io/publication/fortification/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/fortification/</guid>
+      <description>&lt;p&gt;A recent result of Moshkovitz cite{Moshkovitz14} presented an ingenious method to provide a completely elementary proof of the Parallel Repetition Theorem for certain projection games via a construction called fortification. However, the construction used in cite{Moshkovitz14} to fortify arbitrary label cover instances using an arbitrary extractor is insufficient to prove parallel repetition. In this paper, we provide a fix by using a stronger graph that we call fortifiers. Fortifiers are graphs that have both 1 and 2 guarantees on induced distributions from large subsets. We then show that an expander with sufficient spectral gap, or a bi-regular extractor with stronger parameters (the latter is also the construction used in an independent update cite{Moshkovitz15} of cite{Moshkovitz14} with an alternate argument), is a good fortifier. We also show that using a fortifier (in particular 2 guarantees) is necessary for obtaining the robustness required for fortification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reducing uniformity in Khot-Saket hypergraph coloring hardness reductions</title>
+      <link>http://geevi.github.io/publication/improved-khot-saket/</link>
+      <pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/improved-khot-saket/</guid>
+      <description>&lt;p&gt;In a recent result, Khot and Saket [FOCS 2014] proved the quasi-NP-hardness of coloring a 2-colorable 12-uniform hypergraph with 2(logn)Ω(1) colors. This result was proved using a novel outer PCP verifier which had a strong soundness guarantee. In this note, we show that we can reduce the arity of their result by modifying their 12-query inner verifier to an 8-query inner verifier based on the hypergraph coloring hardness reductions of Guruswami et. al. [STOC 2014]. More precisely, we prove quasi-NP-hardness of the following problems on n-vertex hypergraphs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with 2(logn)Ω(1) colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with 2(logn)Ω(1) colors.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Derandomized Graph Product Results using the Low Degree Long Code</title>
+      <link>http://geevi.github.io/publication/graph-prods/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/graph-prods/</guid>
+      <description>&lt;p&gt;In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the \&amp;ldquo;majority is stablest\&amp;rdquo; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.&lt;/p&gt;
+
+&lt;p&gt;In our first result, we show that there exists a considerably smaller subgraph of K⊗R3 which exhibits the following property (shown for K⊗R3 by Alon et al.): independent sets close in size to the maximum independent set are well approximated by dictators. The \&amp;ldquo;majority is stablest\&amp;rdquo; type of result of Dinur et al. and Dinur and Shinkar shows that if there exist two sets of vertices A and B in K⊗R3 with very few edges with one endpoint in A and another in B, then it must be the case that the two sets A and B share a single influential coordinate.&lt;/p&gt;
+
+&lt;p&gt;In our second result, we show that a similar \&amp;ldquo;majority is stablest\&amp;rdquo; statement holds good for a considerably smaller subgraph of K⊗R3. Furthermore using this result, we give a more efficient reduction from Unique Games to the graph coloring problem, leading to improved hardness of approximation results for coloring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</title>
+      <link>http://geevi.github.io/publication/hyper-coloring/</link>
+      <pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/hyper-coloring/</guid>
+      <description>&lt;p&gt;We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on n-vertex hyper-graphs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with 22Ω(loglogn√) colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with 22Ω(loglogn√) colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 3-colorable 3-uniform hypergraph with (logn)Ω(1/logloglogn) colors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In each of these cases, the hardness results obtained are (at least) exponentially stronger than what was previously known for the respective cases. In fact, prior to this result, polylog n colors was the strongest quantitative bound on the number of colors ruled out by inapproximability results for O(1)-colorable hypergraphs. The fundamental bottleneck in obtaining coloring inapproximability results using the low- degree long code was a multipartite structural restriction in the PCP construction of Dinur-Guruswami. We are able to get around this restriction by simulating the multipartite structure implicitly by querying just one partition (albeit requiring 8 queries), which yields our result for 2-colorable 8-uniform hypergraphs. The result for 4-colorable 4-uniform hypergraphs is obtained via a &amp;lsquo;query doubling&amp;rsquo; method. For 3-colorable 3-uniform hypergraphs, we exploit the ternary domain to design a test with an additive (as opposed to multiplicative) noise function, and analyze its efficacy in killing high weight Fourier coefficients via the pseudorandom properties of an associated quadratic form.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Playing games in an uncertain world</title>
+      <link>http://geevi.github.io/publication/playing-games/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/playing-games/</guid>
+      <description>&lt;p&gt;Traditional game theory assumes that the players in the game are aware of the rules of the game. However, in practice, often the players are unaware or have only partial knowledge about the game they are playing. They may also have knowledge that other players have only partial knowledge of the game they are playing, which they can try to exploit. We present a novel mathematical formulation of such games. We make use of Kripke semantics, which are a way to keep track of what different players know and do not know about the world. We propose a notion of equilibrium for such games, and show that equilibrium always exists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Physarum Can Compute Shortest Paths</title>
+      <link>http://geevi.github.io/publication/slime-mold2/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/slime-mold2/</guid>
+      <description>&lt;p&gt;Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution. This matches the experimental observations by Tero et al. and can be seen as an example of a “natural algorithm”, that is, an algorithm developed by evolution over millions of years.&lt;/p&gt;
+
+&lt;p&gt;Highlights
+► A standard model for Physarum converges to the shortest path in any network.
+► When flow directions stabilize, convergence to the shortest path is fast.
+► Flow directions stabilize in series–parallel networks and Wheatstone networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physarum Can Compute Shortest Paths</title>
+      <link>http://geevi.github.io/publication/slime-mold/</link>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/slime-mold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Algorithms for Language Recognition Problems</title>
+      <link>http://geevi.github.io/publication/streaming2/</link>
+      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/streaming2/</guid>
+      <description>&lt;p&gt;We study the complexity of the following problems in the streaming model. Membership testing for DLIN We show that every language in DLIN can be recognised by a randomized one-pass O(logn) space algorithm with inverse polynomial one-sided error, and by a deterministic p-pass O(n/p) space algorithm. We show that these algorithms are optimal.Membership testing for LL(k). For languages generated by LL(k) grammars with a bound of r on the number of nonterminals at any stage in the left-most derivation, we show that membership can be tested by a randomized one-pass O(rlogn) space algorithm with inverse polynomial (in n) one-sided error. Membership testing for DCFL We show that randomized algorithms as efficient as the ones described above for DLIN and $LL(k)$ (which are subclasses of DCFL) cannot exist for all of DCFL: there is a language in VPL (a subclass of DCFL) for which any randomized p-pass algorithm with error bounded by ϵ&amp;lt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; must use Ω(n/p) space.Degree sequence problem We study the problem of determining, given a sequence d1,d2,&amp;hellip;,dn and a graph G, whether the degree sequence of G is precisely d1,d2,&amp;hellip;,dn. We give a randomized one-pass O(logn) space algorithm with inverse polynomial one-sided error probability. We show that our algorithms are optimal.Our randomized algorithms are based on the recent work of Magniez et al. cite{MMN09}; our lower bounds are obtained by considering related communication complexity problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conductance and eigenvalue</title>
+      <link>http://geevi.github.io/publication/conductance/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/conductance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Algorithms for Some Problems in Log-Space</title>
+      <link>http://geevi.github.io/publication/streaming/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/streaming/</guid>
+      <description>&lt;p&gt;In this paper, we give streaming algorithms for some problems which are known to be in deterministic log-space, when the number of passes made on the input is unbounded. If the input data is massive, the conventional deterministic log-space algorithms may not run efficiently. We study the complexity of the problems when the number of passes is bounded.&lt;/p&gt;
+
+&lt;p&gt;The first problem we consider is the membership testing problem for deterministic linear languages, DLIN. Extending the recent work of Magniez et al.&lt;a href=&#34;to appear in STOC 2010&#34; target=&#34;_blank&#34;&gt;11&lt;/a&gt;, we study the use of fingerprinting technique for this problem. We give the following streaming algorithms for the membership testing of DLIN s: a randomized one pass algorithm that uses O(logn) space (one-sided error, inverse polynomial error probability), and also a p-pass O(n/p)-space deterministic algorithm. We also prove that there exists a language in DLIN, for which any p-pass deterministic algorithm for membership testing, requires Ω(n/p) space. We also study the application of fingerprinting technique to visibly pushdown languages, VPL s.&lt;/p&gt;
+
+&lt;p&gt;The other problem we consider is, given a degree sequence and a graph, checking whether the graph has the given degree sequence, Deg-Seq. We prove that, any p-pass deterministic algorithm that takes as its input a degree sequence, followed by an adjacency list of a graph, requires Ω(n/p) space to decide Deg-Seq. However, using randomness, for a more general input format: degree sequence, followed by a list of edges in any arbitrary order, Deg-Seq can be decided in O(logn) space. We also give a p-pass, O(n/p)-space deterministic algorithm for Deg-Seq.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
