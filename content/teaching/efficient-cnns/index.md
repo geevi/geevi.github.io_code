@@ -64,6 +64,8 @@ The topics covered can be broadly classified into following. It is reccomended t
     - https://arxiv.org/abs/1608.06993
 - ShuffleNet
     - https://arxiv.org/abs/1707.01083
+- Interleaved Convolution
+    - https://arxiv.org/pdf/1707.02725.pdf
 - Deep Expander Nets
     - https://arxiv.org/abs/1711.08757
 - ZeroFLOP operation
@@ -80,6 +82,10 @@ The topics covered can be broadly classified into following. It is reccomended t
     - http://proceedings.mlr.press/v70/bolukbasi17a/bolukbasi17a.pdf
 - Wraped Convolutions (ICMl '17)
     - http://proceedings.mlr.press/v70/henriques17a/henriques17a.pdf
+- SENet (ImageNet 2017 Competition Winner)
+    - https://arxiv.org/pdf/1709.01507.pdf
+- MobileNet v2 (with detection and segmentation scores)
+    - https://arxiv.org/pdf/1801.04381.pdf
 
 ### Architecture Search
 
