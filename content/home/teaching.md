@@ -15,6 +15,6 @@ weight = 6
 
 +++
 - [Efficient CNNs (Reading Group)](/teaching/efficient-cnns), Jan 2018 
-- [Multi Object Tracking using MDPs and RL (Reading Group)](/teaching/mot), Jan 2018
+- [Multi Object Tracking using Deep Learning (Reading Group)](/teaching/mot), Jan 2018
 - [Foundations of Artificial Intelligence and Machine Learning](https://cie.iiit.ac.in/aiml/), Jan 2018 
 - [Computational Complexity Theory](/teaching/complexity-theory), Sept - Nov 2017

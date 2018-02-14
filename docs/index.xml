@@ -73,6 +73,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.01083&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1707.01083&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Interleaved Convolution
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1707.02725.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1707.02725.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Deep Expander Nets
 
 &lt;ul&gt;
@@ -103,15 +108,26 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/cho17a/cho17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/cho17a/cho17a.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Adaptive Neural Networks (ICML &amp;lsquo;17)
+&lt;li&gt;SENet (ImageNet 2017 Competition Winner)
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/bolukbasi17a/bolukbasi17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/bolukbasi17a/bolukbasi17a.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1709.01507.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1709.01507.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Wraped Convolutions (ICMl &amp;lsquo;17)
+&lt;li&gt;MobileNet v2 (with detection and segmentation scores)
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/henriques17a/henriques17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/henriques17a/henriques17a.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1801.04381.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1801.04381.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;efficient-semantic-segmentation-architectures&#34;&gt;Efficient Semantic Segmentation Architectures&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DeepLab V3, PSPNet (Atrous Convolutions, Pyramidal Spatial Pooling)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.05587&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1706.05587&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hszhao.github.io/projects/pspnet/&#34; target=&#34;_blank&#34;&gt;https://hszhao.github.io/projects/pspnet/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -153,48 +169,113 @@
 &lt;li&gt;Follow some papers from : &lt;a href=&#34;https://stats385.github.io/readings&#34; target=&#34;_blank&#34;&gt;https://stats385.github.io/readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;schedule-1&#34;&gt;Schedule&lt;/h2&gt;
+&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | Pruning and Quantization Introduction&lt;/li&gt;
+&lt;li&gt;ResNext | GPU Programming 1&lt;/li&gt;
+&lt;li&gt;FractualNets | Memory Efficient Convolutions (MEC)&lt;/li&gt;
+&lt;li&gt;CapsuleNet | tvmlang | Semantic segmentation architectures (PSP Module, Atrous convolutions from Deeplab v3)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | GPU 1&lt;/li&gt;
-&lt;li&gt;Pruning and Quantization Introduction | Residual and Dense Connections (ResNet, ResNext and DenseNet) | GPU 2&lt;/li&gt;
-&lt;li&gt;Architecture Search Introduction&lt;/li&gt;
-&lt;li&gt;ShuffleNet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ameya&lt;/li&gt;
+&lt;li&gt;Ameya Prabhu&lt;/li&gt;
+&lt;li&gt;Aniruddha Vivek Patil&lt;/li&gt;
+&lt;li&gt;Sriharsha Annamaneni&lt;/li&gt;
+&lt;li&gt;Aaron Varghese&lt;/li&gt;
+&lt;li&gt;Vallurupalli Nikitha&lt;/li&gt;
+&lt;li&gt;Sudhir Kumar Reddy&lt;/li&gt;
+&lt;li&gt;Soham Saha&lt;/li&gt;
+&lt;li&gt;Ashutosh Mishra&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Multi Object Tracking using MDP&#39;s and RL</title>
+      <title>Multi Object Tracking using Deep Learning</title>
       <link>http://geevi.github.io/teaching/mot/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://geevi.github.io/teaching/mot/</guid>
       <description>
 
-&lt;p&gt;Multi Object Tracking is the task tracking objects in video frames. We survey the various types of MOT methods, with special focus on the latest methods that use MDP and RL.&lt;/p&gt;
+&lt;p&gt;Multi Object Tracking is the task tracking objects in video frames. We survey the various types of MOT methods, with special focus on the latest methods that use Deep Learning.&lt;/p&gt;
 
 &lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
 
-&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Learning to Track: Online Multi-object Tracking by Decision Making&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Multi Object Tracking Introduction and Survey | MDPs | RL&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;ICCV&amp;rsquo;15&lt;/li&gt;
+&lt;li&gt;Yu Xiang, Alexandre Alahi, Silvio Savarese&lt;/li&gt;
+&lt;li&gt;cvgl.stanford.edu/papers/xiang_iccv15.pdf&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Online Multi-Target Tracking Using Recurrent Neural Networks&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AAAI&amp;rsquo;17&lt;/li&gt;
+&lt;li&gt;Anton Milan, Seyed Hamid Rezatofighi, Anthony Dick, Ian Reid, Konrad Schindler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1604.03635&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1604.03635&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Deep Network Flow for Multi-Object Tracking&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CVPR &amp;lsquo;17&lt;/li&gt;
+&lt;li&gt;Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.08482&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1706.08482&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Learning to Track at 100 FPS with Deep Regression Networks&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ECCV &amp;lsquo;16&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45&#34; target=&#34;_blank&#34;&gt;https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Deep tracking in the wild: End-to-end tracking using recurrent neural networks&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IJRR &amp;lsquo;17&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.robots.ox.ac.uk/~mobile/Papers/2017_IJRR_Dequaire.pdf&#34; target=&#34;_blank&#34;&gt;http://www.robots.ox.ac.uk/~mobile/Papers/2017_IJRR_Dequaire.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Julie Dequaire, Peter Ondrúška, Dushyant Rao, Dominic Wang, and Ingmar Posner&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Survey Slides by Merc Benz&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://32e624bb-a-62cb3a1a-s-sites.googlegroups.com/site/dlitsc17/A%20Survey%20on%20Leveraging%20Deep%20Neural%20Networks%20for.pdf&#34; target=&#34;_blank&#34;&gt;https://32e624bb-a-62cb3a1a-s-sites.googlegroups.com/site/dlitsc17/A%20Survey%20on%20Leveraging%20Deep%20Neural%20Networks%20for.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Multiple Object Tracking: A Literature Review&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1409.7618&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1409.7618&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A survey on multiple object tracking algorithm&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/document/7832121/&#34; target=&#34;_blank&#34;&gt;http://ieeexplore.ieee.org/document/7832121/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Multiple Object Tracking: A Literature Review&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pdfs.semanticscholar.org/8b42/8625c8a496c7e56b419197df55c751c22bc3.pdf&#34; target=&#34;_blank&#34;&gt;https://pdfs.semanticscholar.org/8b42/8625c8a496c7e56b419197df55c751c22bc3.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Vidit&lt;/li&gt;
-&lt;li&gt;Mohammed&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Vidit Jain&lt;/li&gt;
+&lt;li&gt;Mohammed Sharfuddin&lt;/li&gt;
+&lt;li&gt;Anjan Kumar&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

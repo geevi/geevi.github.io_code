@@ -78,14 +78,16 @@ The topics covered can be broadly classified into following. It is reccomended t
     - https://arxiv.org/abs/1605.07648
 - MEC (ICML '17)
     - http://proceedings.mlr.press/v70/cho17a/cho17a.pdf
-- Adaptive Neural Networks (ICML '17)
-    - http://proceedings.mlr.press/v70/bolukbasi17a/bolukbasi17a.pdf
-- Wraped Convolutions (ICMl '17)
-    - http://proceedings.mlr.press/v70/henriques17a/henriques17a.pdf
 - SENet (ImageNet 2017 Competition Winner)
     - https://arxiv.org/pdf/1709.01507.pdf
 - MobileNet v2 (with detection and segmentation scores)
     - https://arxiv.org/pdf/1801.04381.pdf
+
+
+### Efficient Semantic Segmentation Architectures
+- DeepLab V3, PSPNet (Atrous Convolutions, Pyramidal Spatial Pooling)
+    - https://arxiv.org/abs/1706.05587
+    - https://hszhao.github.io/projects/pspnet/
 
 ### Architecture Search
 
@@ -107,15 +109,24 @@ The topics covered can be broadly classified into following. It is reccomended t
 ### Theory for CNNs
 - Follow some papers from : https://stats385.github.io/readings
 
-## Schedule 
+## Meetings 
 
-- CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | GPU 1
-- Pruning and Quantization Introduction | Residual and Dense Connections (ResNet, ResNext and DenseNet) | GPU 2
-- Architecture Search Introduction
-- ShuffleNet
+1. CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | Pruning and Quantization Introduction
+2. ResNext | GPU Programming 1 
+3. FractualNets | Memory Efficient Convolutions (MEC)
+4. CapsuleNet | tvmlang | Semantic segmentation architectures (PSP Module, Atrous convolutions from Deeplab v3)
 
 
-## Students
-- Ameya
+
+## Participants
+- Ameya Prabhu
+- Aniruddha Vivek Patil
+- Sriharsha Annamaneni
+- Aaron Varghese
+- Vallurupalli Nikitha
+- Sudhir Kumar Reddy
+- Soham Saha
+- Ashutosh Mishra
+
 
 
