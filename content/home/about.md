@@ -19,9 +19,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Senior Project Scientist"
+  institution = "IIIT Hyderabad"
+  year = "2016 - Current"
+
+[[education.courses]]
   course = "Postdoctoral Research"
   institution = "Weizmann Institute of Science, Israel"
-  year = 2016
+  year = "2015 - 2016"
 
 [[education.courses]]
   course = "PhD in Computer Science"
