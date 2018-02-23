@@ -35,7 +35,7 @@ selected = true
 projects = ["model-compression", "xnet"]
 
 # Links (optional).
-#url_pdf =  
+url_pdf = "https://arxiv.org/abs/1711.08757" 
 url_preprint = "https://arxiv.org/abs/1711.08757"
 #url_code = "#"
 #url_dataset = "#"

@@ -41,7 +41,7 @@ weight = 5
 +++
 
 
-<h1>Hi!,</h1>
-I am a scientist of Machine Learning at the [Machine Learning Lab](http://mll.iiit.ac.in/) at [IIIT Hyderabad](http://iiit.ac.in/). My primary research topic is Deep Learning, specifically [Model Compression](/project/model-compression/) techniques, Semantic Segmentation for Autonomous Navigation and [Reinforcement Learning](/project/deep-reinforcement-learning/).
+<h2>Hi!</h2>
+I am a scientist of Machine Learning at the [Machine Learning Lab](http://mll.iiit.ac.in/) at [IIIT Hyderabad](http://iiit.ac.in/). My primary research topic is Deep Learning, specifically [Model Compression](/project/model-compression/) techniques and Semantic Segmentation for Autonomous Navigation.
 
 Previously I did my [Phd thesis](/publication/thesis/) on Computational Complexity theory and continues to have interest in [Complexity theory](/project/pcps/), Combinatorics and Graph theory.

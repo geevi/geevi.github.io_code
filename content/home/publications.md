@@ -2,11 +2,11 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
-active = true
+active = false
 date = 2016-04-20
 
-title = "Recent Publications"
-subtitle = ""
+title = "Selected Publications"
+subtitle = "[All Publications](https://scholar.google.co.in/citations?user=PaVORLwAAAAJ&hl=en)"
 
 # Order that this section will appear in.
 weight = 20

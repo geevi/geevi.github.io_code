@@ -1,5 +1,5 @@
 baseurl = "http://geevi.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "gv"
+title = "Girish varma"
 copyright = "&copy; 2017 Girish Varma"
 theme = "academic"
 enableEmoji = true
@@ -257,10 +257,10 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 6
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 6
 
 [[menu.main]]
   name = "Contact"

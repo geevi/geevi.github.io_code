@@ -84,6 +84,7 @@ Multi Object Tracking is the task tracking objects in video frames. We survey th
 - Vidit Jain
 - Mohammed Sharfuddin
 - Anjan Kumar
+- Haard Panjal
 
 
 

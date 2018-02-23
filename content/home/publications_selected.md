@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20
 
 title = "Selected Publications"
-subtitle = ""
+subtitle = "[All Publications](https://scholar.google.co.in/citations?user=YLlRCu4AAAAJ&hl=en)"
 
 # Order that this section will appear in.
 weight = 10
@@ -17,7 +17,7 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 0
 
 # Filter by publication type.
 # -1: Any
