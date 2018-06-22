@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Efficient Semantic Segmentation using Gradual Grouping</title>
+      <link>http://geevi.github.io/publication/grad-group/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/grad-group/</guid>
+      <description>&lt;p&gt;Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class2Str: End to End Latent Hierarchy Learning</title>
+      <link>http://geevi.github.io/publication/class2str/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/class2str/</guid>
+      <description>&lt;p&gt;Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Efficient CNNs</title>
       <link>http://geevi.github.io/teaching/efficient-cnns/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -512,26 +532,6 @@ solutions will be discussed.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://geevi.github.io/pdfs/Ameya-indep-study.pdf&#34;&gt;Final Report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hardness of Approximate Coloring</title>
-      <link>http://geevi.github.io/project/hardness/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/project/hardness/</guid>
-      <description>&lt;p&gt;Improved lowerbounds for graph/hypergraph coloring.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Physarum Computer</title>
-      <link>http://geevi.github.io/project/physarum-computer/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/project/physarum-computer/</guid>
-      <description>&lt;p&gt;Formal proof for slime-molds finding shortest paths in maze.&lt;/p&gt;
 </description>
     </item>
     

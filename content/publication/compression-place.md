@@ -17,8 +17,8 @@ authors = ["Soham Saha", "Girish Varma", "CV Jawahar"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Asian Conference on Pattern Recognision (ACPR'17)*."
-publication_short = "In *ACPR* (Spotlight Oral)"
+publication = "Spotlight Oral Presentation<br/>In Asian Conference on Pattern Recognision ACPR"
+publication_short = "In *ACPR* ()"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -27,7 +27,7 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
