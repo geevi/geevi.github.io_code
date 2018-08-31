@@ -3,7 +3,7 @@ title = "Class2Str: End to End Latent Hierarchy Learning"
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Soham Saha", "Girish Varma", "C V Jawahar"]
+authors = ["Soham Saha", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>''']
 
 # Publication type.
 # Legend:
@@ -17,14 +17,14 @@ authors = ["Soham Saha", "Girish Varma", "C V Jawahar"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ICPR"
+publication = "International Conference on Pattern Recognision (<strong>ICPR</strong>)"
 #publication_short = "In *ACPR*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/cls2str.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -42,7 +42,7 @@ url_pdf = ""
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
-#url_poster = "#"
+url_poster = "/pdfs/ICPR_2018_Poster.pdf"
 #url_source = "#"
 
 # Custom links (optional).

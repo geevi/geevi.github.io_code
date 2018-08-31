@@ -3,7 +3,7 @@ title = "Hardness of Approximate Coloring"
 date = "2016-12-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Girish Varma"]
+authors = [ '''Phd Thesis advised by <a href='http://www.tcs.tifr.res.in/~prahladh/'>Prof. Prahlad Harsha</a>''']
 
 # Publication type.
 # Legend:
@@ -16,14 +16,14 @@ authors = [ "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["5"]
 # Publication name and optional abbreviated version.
-publication = "*Phd Thesis at Tata Institute of Fundamental Research, Mumbai*."
+publication = '''<span style='color: orange'>Suppored by Google India Phd Fellowship in Algorithms</span><br/>Tata Institute of Fundamental Research (<b>TIFR</b>), Mumbai.'''
 publication_short = "*Phd Thesis at TIFR, Mumbai*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/thesis.png"
 
 # Is this a selected publication? (true/false)
 selected = true

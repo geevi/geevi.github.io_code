@@ -3,7 +3,7 @@ title = "Efficient Semantic Segmentation using Gradual Grouping"
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nikitha Vallurupalli", "Sriharsha Annamaneni", "Girish Varma", "C V Jawahar", "Manu Mathew", "Soyeb Nagori"]
+authors = ["Nikitha Vallurupalli", "Sriharsha Annamaneni", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>''', "Manu Mathew", "Soyeb Nagori"]
 
 # Publication type.
 # Legend:
@@ -17,14 +17,14 @@ authors = ["Nikitha Vallurupalli", "Sriharsha Annamaneni", "Girish Varma", "C V 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Best Runner-Up Award, Oral Presentation<br/>CVPR Workshop on Embedded Vision"
+publication = '''<span style='color: orange'>Best Runner-Up Award, Oral Presentation</span><br/><a href='https://embeddedvisionworkshop.wordpress.com/'>IEEE Embedded Vision Workshop, CVPR</a>'''
 #publication_short = "In *ACPR*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "img/grad.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["model-compression", "semantic segmentation"]
+projects = ["model-compression", "semantic-segmentation"]
 
 # Links (optional).
 url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
@@ -40,9 +40,9 @@ url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/V
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "/pdfs/cvpr-evw-18-slides.pdf"
 #url_video = "#"
-#url_poster = "#"
+url_poster = "/pdfs/cvpr-evw-18-poster.pdf"
 #url_source = "#"
 
 # Custom links (optional).

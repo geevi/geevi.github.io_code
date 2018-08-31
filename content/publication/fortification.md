@@ -17,7 +17,7 @@ authors = ["Amey Bhangale", "Ramprasad Saptharishi", "Prahladh Harsha", "Girish 
 # 6 = Book chapter
 publication_types = ["1"]
 # Publication name and optional abbreviated version.
-publication = "*Randomization and Computation 2015*."
+publication = "Randomization and Computation (<strong>RANDOM</strong>)"
 publication_short = "*RANDOM*"
 
 # Abstract and optional shortened version.
@@ -27,7 +27,7 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

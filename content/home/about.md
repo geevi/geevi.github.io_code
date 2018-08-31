@@ -25,17 +25,17 @@ weight = 5
 
 [[education.courses]]
   course = "Postdoctoral Research"
-  institution = "Weizmann Institute of Science, Israel"
+  institution = '''Weizmann Institute of Science, Israel'''
   year = "2015 - 2016"
 
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "Tata Institute of Fundamental Research, Mumbai"
+  institution = '''Tata Institute of Fundamental Research, Mumbai'''
   year = 2015
 
 [[education.courses]]
   course = "MS in Computer Science"
-  institution = "Tata Institute of Fundamental Research, Mumbai"
+  institution = '''Tata Institute of Fundamental Research, Mumbai'''
   year = 2011
 
 [[education.courses]]

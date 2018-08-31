@@ -16,17 +16,17 @@ authors = ["Irit Dinur", "Prahladh Harsha", "Srikanth Srinivasan", "Girish Varma
 # 6 = Book chapter
 publication_types = ["1"]
 # Publication name and optional abbreviated version.
-publication = "*Symp. on Theoretical Aspects of Computer Science 2015*."
+publication = '''Symp. on Theor. Aspects of Comp. Sci. (<strong>STACS</strong>)'''
 publication_short = "*STACS*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/graph-col.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

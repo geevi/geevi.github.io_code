@@ -16,14 +16,14 @@ authors = [" Vincenzo Bonifaci", "Kurt Mehlhorn", "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = "*Journal of Theoretical Biology, volume 309-0, pages 121 - 133, 2012,*."
-publication_short = "*JTB'12*"
+publication = '''<span style='color: orange'>Journal of Theoretical Biology (<strong>JTB</strong>)</span><br/>Symp. of Discrete Algorithms (<strong>SODA</strong>)'''
+publication_short = "JTB'12"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/physarum.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -35,7 +35,7 @@ projects = ["physarum-computer"]
 
 # Links (optional).
 url_pdf =  "https://doi.org/10.1016/j.jtbi.2012.06.017"
-#url_preprint = "http://arxiv.org/abs/1104.0848"
+url_preprint = "https://arxiv.org/abs/1106.0423"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

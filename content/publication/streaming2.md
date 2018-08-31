@@ -17,17 +17,17 @@ authors = ["Ajesh Babu", "Nutan Limaye",  "Jaikumar Radhakrishnan", "Girish Varm
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "* Theoretical Computer Science, Volume 494, 8 July 2013, Pages 13-23.*."
+publication = '''<span style='color: orange'>Invited to Theor. Comp. Sci. Journal (<strong>TCS</strong>)</span><br/>Theory and App. of Models of Comp., (<strong>TAMC</strong>)'''
 publication_short = "*TCS*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/stream.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

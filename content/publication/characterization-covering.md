@@ -1,6 +1,6 @@
 +++
 title = "A Characterization of Hard-to-cover CSPs"
-date = "2015-08-10"
+date = "2015-12-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amey Bhangale", "Prahladh Harsha", "Girish Varma"]
@@ -14,19 +14,19 @@ authors = ["Amey Bhangale", "Prahladh Harsha", "Girish Varma"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = "*Computational Complexity Conference 2015*."
+publication = '''<span style='color: orange'>Theory of Computing Journal (<b>ToC</b>)</span><br/>Computational Complexity Conference (<b>CCC</b>)'''
 publication_short = "*CCC*"
 
 # Abstract and optional shortened version.
 
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/hypergraph.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,7 +39,7 @@ url_preprint = "https://arxiv.org/abs/1411.7747"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "https://www.dropbox.com/s/mv391tfzysae7ee/slides.pdf?dl=0"
+url_slides = "/files/covering-slides.pptx"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"

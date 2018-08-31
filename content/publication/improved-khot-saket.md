@@ -17,8 +17,8 @@ authors = [ "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = "*Chicago J. Theor. Comput. Sci*."
-publication_short = "*Chicago J. Theor. Comput. Sci*"
+publication = "*Chicago J. Theor. Comp. Sci*."
+publication_short = "*Chicago J. Theor. Comp. Sci*"
 
 # Abstract and optional shortened version.
 abstract = ""

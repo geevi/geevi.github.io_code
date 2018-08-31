@@ -1,6 +1,6 @@
 +++
 title = "Super-polylogarithmic hypergraph coloring hardness via low-degree long codes"
-date = "2017-02-22"
+date = "2015-09-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Venkat Guruswami", "Prahladh Harsha", "Johan Hastad", "Srikanth Srinivasan", "Girish Varma"]
@@ -16,14 +16,14 @@ authors = ["Venkat Guruswami", "Prahladh Harsha", "Johan Hastad", "Srikanth Srin
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = "*SIAM Journal on Computing*."
+publication = '''<span style='color: orange'>SIAM Journal on Computing (<strong>SICOMP</strong>)</span><br/>Sym. of Theory of Computing (<strong>STOC</strong>)'''
 publication_short = "*SICOMP*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/img/hyp-col.png"
 
 # Is this a selected publication? (true/false)
 selected = true
