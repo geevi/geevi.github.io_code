@@ -49,7 +49,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Machine Learning Lab", url = "http://mll.iiit.ac.in/" }, { name = "Kohli Center for Inteligent Systems", url = "http://kcis.iiit.ac.in/" }, { name = "IIIT Hyderabad", url = "http://iiit.ac.in/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile_pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "girish.varma [at] iiit [dot] ac [dot] in"
   address = "2nd Floor, Kohli Research Block, IIIT Hyderabad, Gachibowli - 500032, Hyderabad"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"

@@ -37,12 +37,12 @@ projects = ["model-compression"]
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
 url_preprint = "https://arxiv.org/abs/1711.08757"
-#url_code = "#"
+url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
-#url_poster = "#"
+url_poster = "/pdfs/ECCV18.pdf"
 #url_source = "#"
 
 # Custom links (optional).
