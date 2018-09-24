@@ -35,7 +35,7 @@ selected = true
 #projects = ["localization"]
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
+url_pdf = "http://bmvc2018.org/contents/papers/0962.pdf" 
 #url_preprint = "https://arxiv.org/abs/1711.08757"
 #url_code = "#"
 #url_dataset = "#"
