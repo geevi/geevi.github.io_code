@@ -27,7 +27,7 @@ abstract = ""
 image_preview = "/img/cls2str.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,8 +36,8 @@ projects = ["model-compression", "latent heirarchy"]
 
 # Links (optional).
 url_pdf = "" 
-#url_preprint = "https://arxiv.org/abs/1711.08757"
-#url_code = "#"
+url_preprint = "https://arxiv.org/abs/1808.06675"
+url_code = "https://github.com/Soham0/Class2Str"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"

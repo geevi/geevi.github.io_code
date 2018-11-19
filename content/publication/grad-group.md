@@ -27,12 +27,12 @@ abstract = ""
 image_preview = "img/grad.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["model-compression", "semantic-segmentation"]
+projects = ["model-compression", "auto-nav"]
 
 # Links (optional).
 url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 

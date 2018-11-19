@@ -17,7 +17,7 @@ authors = ["Sudhir Kumar Reddy", "Girish Varma", '''<a href="https://faculty.iii
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Intelligent Robots (<strong>IROS</strong>)"
+publication = "International Conference on Intelligent Robots (<strong>IROS'18</strong>)"
 #publication_short = "In *ACPR*"
 
 # Abstract and optional shortened version.
@@ -32,15 +32,15 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["semantic-segmentation"]
+projects = ["auto-nav"]
 
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
 #url_preprint = "https://arxiv.org/abs/1711.08757"
-#url_code = "#"
-#url_dataset = "#"
-#url_project = "#"
-#url_slides = "#"
+url_code = "https://github.com/Sudhir11292rt/City-scale-Road-Audit"
+url_dataset = "http://cvit.iiit.ac.in/images/Projects/city-scale-roadaudit/release_version_v1.zip"
+url_project = "http://cvit.iiit.ac.in/research/projects/cvit-projects/city-scale-road-audit"
+url_slides = "/pdfs/IROS18-slides.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"

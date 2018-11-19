@@ -11,11 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Deep Learning",
-    "Reinforcement Learning",
+    "Computer Vision and Deep Learning",
     "Computational Complexity Theory",
     "Combinatorics, Algebra & Probability"
-  ]
+]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -29,14 +28,14 @@ weight = 5
   year = "2015 - 2016"
 
 [[education.courses]]
-  course = "PhD in Computer Science"
+  course = "PhD and MS in Computer Science"
   institution = '''Tata Institute of Fundamental Research, Mumbai'''
   year = 2015
 
-[[education.courses]]
-  course = "MS in Computer Science"
-  institution = '''Tata Institute of Fundamental Research, Mumbai'''
-  year = 2011
+#[[education.courses]]
+#  course = "MS in Computer Science"
+#  institution = '''Tata Institute of Fundamental Research, Mumbai'''
+#  year = 2011
 
 [[education.courses]]
   course = "BTech in Computer Science & Eng."

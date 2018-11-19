@@ -1,9 +1,15 @@
 +++
-title = "Improved Visual Relocalization by Discovering Anchor Points"
-date = "2018-07-01"
+title = "IDD: A Dataset for exploring problems in Autonomous Navigation in Unconstrained Environments"
+date = "2018-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Soham Saha", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>''']
+authors = [
+    "Girish Varma", 
+    "Anbumani Subramanian",
+    '''<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a>''',
+    '''<a href='http://cseweb.ucsd.edu/~mkchandraker/'>Manmohan Chandraker</a>''',
+    '''<a href="https://faculty.iiit.ac.in/~jawahar">C V Jawahar</a>'''
+]
 
 # Publication type.
 # Legend:
@@ -17,14 +23,14 @@ authors = ["Soham Saha", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Spotlight Presentation</span><br/>British Machine Vision Conference (<strong>BMVC'18</strong>)'''
-#publication_short = "In *ACPR*"
+publication = '''<a href='https://wacv2019.org/'>IEEE Winter Conference of Applications of Computer Vision (<strong>WACV'19</strong>)</a>'''
+#publication_short = "ECCV'18"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/achor.png"
+image_preview = "img/idd.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -35,14 +41,14 @@ selected = true
 projects = ["auto-nav"]
 
 # Links (optional).
-url_pdf = "http://bmvc2018.org/contents/papers/0962.pdf" 
-url_preprint = "https://arxiv.org/abs/1811.04370"
-url_code = "https://github.com/Soham0/Improved-Visual-Relocalization"
-#url_dataset = "#"
-#url_project = "#"
-url_slides = "/pdfs/BMVC_2018_Spotlight.pdf"
+#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
+#url_preprint = "https://arxiv.org/abs/1711.08757"
+#url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
+url_dataset = "http://cvit.iiit.ac.in/scene-understanding-challenge-2018/"
+url_project = "http://cvit.iiit.ac.in/scene-understanding-challenge-2018/"
+#url_slides = "#"
 #url_video = "#"
-url_poster = "/pdfs/BMVC_2018_Poster.pdf"
+#url_poster = "/pdfs/ECCV18.pdf"
 #url_source = "#"
 
 # Custom links (optional).

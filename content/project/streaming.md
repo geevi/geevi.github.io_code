@@ -13,7 +13,7 @@ summary = "Few pass, small memory algorithms for big data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["complexity-theory", "algorithms"]
+tags = [ "algorithms"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

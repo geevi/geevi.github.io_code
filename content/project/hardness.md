@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Hardness of Approximate Coloring"
+title = "Hardness of Approximation"
 
 # Project summary to display on homepage.
 summary = "Improved lowerbounds for graph/hypergraph coloring."

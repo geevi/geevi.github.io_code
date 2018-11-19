@@ -13,7 +13,7 @@ summary = "Make deep learning models deployable in constrained memory devices."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["computer-vision"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

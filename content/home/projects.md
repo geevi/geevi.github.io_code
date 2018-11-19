@@ -2,7 +2,7 @@
 # Projects widget.
 # This widget displays all projects from `content/project/`.
 widget = "projects"
-active = false
+active = true
 date = "2016-04-20T00:00:00"
 
 title = "Projects"
@@ -29,17 +29,16 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
-[[filter]]
-  name = "Complexity Theory"
-  tag = ".complexity-theory"
+  name = "Computer Vision"
+  tag = ".computer-vision"
 
 [[filter]]
   name = "Algorithms"
   tag = ".algorithms"
 
+[[filter]]
+  name = "Complexity Theory"
+  tag = ".complexity-theory"
 
 
 [[filter]]

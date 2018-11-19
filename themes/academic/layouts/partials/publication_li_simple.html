@@ -15,7 +15,7 @@
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
   </div>
-  <div class="pub-publication">{{- .Params.publication | markdownify -}},&nbsp; {{- .Date.Format "2006" -}}.</div>
+  <div class="pub-publication">{{- .Params.publication | markdownify -}}.</div>
   
   <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
 

@@ -184,7 +184,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 0
 
   # Social/Academic Networking
   #
@@ -236,10 +236,11 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 2
+[[menu.main]]
+   name = "Projects"
+   url = "#projects"
+   weight = 2
+   
 [[menu.main]]
   name = "Events"
   url = "#events"
@@ -262,10 +263,10 @@ defaultContentLanguageInSubdir = false
 #   weight = 5
 
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 6
+[[menu.main]]
+ name = "CV"
+ url = "/pdfs/girish-resume.pdf"
+ weight = 6
 
 [[menu.main]]
   name = "Contact"

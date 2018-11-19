@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Probabilitically Checkable Proofs"
+title = "PCPs & Hardness Amplification"
 
 # Project summary to display on homepage.
 summary = "Improved PCPs using low-degree codes and using product constructions."
