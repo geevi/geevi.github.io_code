@@ -8,7 +8,112 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Girish Varma</copyright>
     <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://geevi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://geevi.github.io/home/about/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/about/</guid>
+      <description>Hi! I am a scientist of Machine Learning at the Machine Learning Lab at IIIT Hyderabad. My primary research topic is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.
+Previously I did my Phd thesis on Computational Complexity theory and continues to have interest in Complexity theory, Combinatorics and Graph theory.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://geevi.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>http://geevi.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>http://geevi.github.io/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://geevi.github.io/home/events/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/events/</guid>
+      <description>Scene Understanding Challenge for Auto. Nav. in Unstructured Environments First International Workshop On Auto. Nav. in Unconstrained Environments  in Conjunction with ECCV 2018, September 8, 2018, Munich.
+ 3rd Summer School on Machine Learning | Computer Vision IIIT Hyderabad, July, 2018.
+ Autorickshaw Detection Challlenge at NCVPRIPG&amp;rsquo;17 Tutorial on Computer Vision for Autonomous Navigation at NCVPRIPG&amp;rsquo;17 IIT Mandi, December, 2017.
+ 2nd Summer School on Machine Learning | Computer Vision IIIT Hyderabad, July, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://geevi.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/teaching/</guid>
+      <description> Efficient CNNs (Reading Group), Jan 2018 Multi Object Tracking using Deep Learning (Reading Group), Jan 2018 Foundations of Artificial Intelligence and Machine Learning, Jan 2018 Computational Complexity Theory, Sept - Nov 2017  </description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://geevi.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://geevi.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://geevi.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://geevi.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://geevi.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://geevi.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://geevi.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>http://geevi.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://geevi.github.io/home/contact/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

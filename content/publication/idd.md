@@ -23,17 +23,26 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<a href='https://wacv2019.org/'>IEEE Winter Conference of Applications of Computer Vision (<strong>WACV'19</strong>)</a>'''
+publication = '''<a href='https://wacv2019.org/'>IEEE Winter Conference on Applications of Computer Vision (<strong>WACV'19</strong>)</a>'''
 #publication_short = "ECCV'18"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/idd.jpg"
+image_preview = "/img/idd.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
+
+bibtex= ''' 
+@inproceedings{anue,
+  title={IDD: A Dataset for Exploring Problems of Autonomous Navigation in Unconstrained Environments},
+  author={Varma, Girish and Subramanian, Anbumani and Namboodiri, Anoop and Chandraker, Manmohan and Jawahar, CV.},
+  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  year={2019},
+  organization={IEEE}
+}'''
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -68,4 +77,4 @@ url_project = "http://cvit.iiit.ac.in/scene-understanding-challenge-2018/"
 #caption = "My caption :smile:"
 
 +++
-#Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.
+While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied. It consists of 10,004 images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads. The label set is expanded in comparison to popular benchmarks such as Cityscapes, to account for new classes. It also reflects label distributions of road scenes significantly different from existing datasets, with most classes displaying greater within-class diversity.Consistent with real driving behaviors, it also identifies new classes such as drivable areas besides the road. We propose a new four-level label hierarchy, which allows varying degrees of complexity and opens up possibilities for new training methods. Our empirical study provides an in-depth analysis of the label characteristics. State-of-the-art methods for semantic segmentation achieve much lower accuracies on our dataset, demonstrating its distinction compared to Cityscapes. Finally, we propose that our dataset is an ideal opportunity for new problems such as domain adaptation, few-shot learning and behavior prediction in road scenes.

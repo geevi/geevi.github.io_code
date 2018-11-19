@@ -6,13 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.31" />
+  <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Girish Varma">
   <meta name="description" content="Senior Project Scientist">
 
   
   <link rel="alternate" hreflang="en-us" href="http://geevi.github.io/publication/streaming/">
-
+  <script src="/vex/js/vex.combined.min.js"></script>
+  <script>vex.defaultOptions.className = 'vex-theme-os'</script>
+  <link rel="stylesheet" href="/vex/css/vex.css" />
+  <link rel="stylesheet" href="/vex/css/vex-theme-os.css" />
+  
   
   
 
@@ -131,6 +135,23 @@
         
 
         <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#events">
             
             <span>Events</span>
@@ -168,6 +189,23 @@
           <a href="/#publications_selected">
             
             <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/pdfs/girish-resume.pdf">
+            
+            <span>CV</span>
             
           </a>
         </li>
@@ -351,13 +389,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="/project/streaming/">
-  streaming
-</a>
-
-
-
           </div>
         </div>
       </div>
@@ -366,13 +397,16 @@
     <div class="visible-xs space-below"></div>
 
     <div class="space-below"></div>
+    
 
+    <h4>Abstract</h4>
     <div class="article-style"><p>In this paper, we give streaming algorithms for some problems which are known to be in deterministic log-space, when the number of passes made on the input is unbounded. If the input data is massive, the conventional deterministic log-space algorithms may not run efficiently. We study the complexity of the problems when the number of passes is bounded.</p>
 
 <p>The first problem we consider is the membership testing problem for deterministic linear languages, DLIN. Extending the recent work of Magniez et al.<a href="to appear in STOC 2010" target="_blank">11</a>, we study the use of fingerprinting technique for this problem. We give the following streaming algorithms for the membership testing of DLIN s: a randomized one pass algorithm that uses O(logn) space (one-sided error, inverse polynomial error probability), and also a p-pass O(n/p)-space deterministic algorithm. We also prove that there exists a language in DLIN, for which any p-pass deterministic algorithm for membership testing, requires Ω(n/p) space. We also study the application of fingerprinting technique to visibly pushdown languages, VPL s.</p>
 
 <p>The other problem we consider is, given a degree sequence and a graph, checking whether the graph has the given degree sequence, Deg-Seq. We prove that, any p-pass deterministic algorithm that takes as its input a degree sequence, followed by an adjacency list of a graph, requires Ω(n/p) space to decide Deg-Seq. However, using randomness, for a more general input format: degree sequence, followed by a list of edges in any arbitrary order, Deg-Seq can be decided in O(logn) space. We also give a p-pass, O(n/p)-space deterministic algorithm for Deg-Seq.</p>
 </div>
+
 
     
 

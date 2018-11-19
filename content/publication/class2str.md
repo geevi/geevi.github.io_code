@@ -23,6 +23,15 @@ publication = "International Conference on Pattern Recognision (<strong>ICPR</st
 # Abstract and optional shortened version.
 abstract = ""
 
+bibtex='''
+@InProceedings{SVJ18,
+author = {Saha, Soham and Varma, Girish and Jawahar, C.V.},
+title = {Class2Str: End to End Latent Hierarchy Learning},
+booktitle = {International Conference on Pattern Recognision (ICPR)}.
+year = {2018}
+}
+'''
+
 # Featured image thumbnail (optional)
 image_preview = "/img/cls2str.png"
 
@@ -62,4 +71,4 @@ url_poster = "/pdfs/ICPR_2018_Poster.pdf"
 #caption = "My caption :smile:"
 
 +++
-Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.
+Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes. We show that for some of the best performing architectures on CIFAR and Imagenet datasets, the proposed replacement and training by LH classifier recovers the accuracy, with a fraction of the number of parameters in the classifier part. Compared to the previous work of HDCNN, which also learns a 2 level hierarchy, we are able to learn a hierarchy at an arbitrary number of levels as well as obtain an accuracy improvement on the Imagenet classification task over them. We also verify that many visually similar classes are grouped together, under the learnt hierarchy.

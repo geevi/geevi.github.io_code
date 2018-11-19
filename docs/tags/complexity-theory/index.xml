@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complexity-theory on Girish varma</title>
+    <link>http://geevi.github.io/tags/complexity-theory/</link>
+    <description>Recent content in complexity-theory on Girish varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Girish Varma</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geevi.github.io/tags/complexity-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Complexity Theory</title>
+      <link>http://geevi.github.io/teaching/complexity-theory/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/teaching/complexity-theory/</guid>
+      <description>Complexity theory studies what problems can and cannot be solved by computers given limited running time and memory resources.
+Students are expected to read the corresponding chapter from the textbook (mentioned under readings), before attending the lecture. The lecture is mainly for clearing doubts and covering the most confusing parts.
+The is a short course with 13 lectures for students who might not have taken a Theory of Computation course.</description>
+    </item>
+    
+    <item>
+      <title>Hardness of Approximation</title>
+      <link>http://geevi.github.io/project/hardness/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/project/hardness/</guid>
+      <description>Improved lowerbounds for graph/hypergraph coloring.</description>
+    </item>
+    
+    <item>
+      <title>PCPs &amp; Hardness Amplification</title>
+      <link>http://geevi.github.io/project/pcps/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/project/pcps/</guid>
+      <description>Improved PCPs using low-degree codes and product constructions.</description>
+    </item>
+    
+  </channel>
+</rss>

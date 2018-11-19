@@ -13,7 +13,7 @@ summary = "Solving problems in Auto. Nav. and aiding Cityscale planning using De
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["computer-vision"]
+tags = ["deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -3,7 +3,7 @@ title = "On Fortification of Projection Games"
 date = "2015-08-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amey Bhangale", "Ramprasad Saptharishi", "Prahladh Harsha", "Girish Varma", "Rakesh Venkat"]
+authors = ["Amey Bhangale", "Ramprasad Saptharishi", "Girish Varma", "Rakesh Venkat"]
 
 
 # Publication type.
@@ -17,12 +17,32 @@ authors = ["Amey Bhangale", "Ramprasad Saptharishi", "Prahladh Harsha", "Girish 
 # 6 = Book chapter
 publication_types = ["1"]
 # Publication name and optional abbreviated version.
-publication = "Randomization and Computation (<strong>RANDOM</strong>)"
-publication_short = "*RANDOM*"
+publication = "Randomization and Computation (<strong>RANDOM'15</strong>)"
+publication_short = "*RANDOM'15*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
+bibtex='''
+@InProceedings{BSVV15,
+  author =	{Amey Bhangale and Ramprasad Saptharishi and Girish Varma and Rakesh Venkat},
+  title =	{{On Fortification of Projection Games}},
+  booktitle =	{Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2015)},
+  pages =	{497--511},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-939897-89-7},
+  ISSN =	{1868-8969},
+  year =	{2015},
+  volume =	{40},
+  editor =	{Naveen Garg and Klaus Jansen and Anup Rao and Jos{\'e} D. P. Rolim},
+  publisher =	{Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{http://drops.dagstuhl.de/opus/volltexte/2015/5320},
+  URN =		{urn:nbn:de:0030-drops-53204},
+  doi =		{10.4230/LIPIcs.APPROX-RANDOM.2015.497},
+  annote =	{Keywords: Parallel Repetition, Fortification}
+}
+'''
 # Featured image thumbnail (optional)
 image_preview = ""
 

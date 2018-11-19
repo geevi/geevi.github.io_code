@@ -6,13 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.31" />
+  <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Girish Varma">
   <meta name="description" content="Senior Project Scientist">
 
   
   <link rel="alternate" hreflang="en-us" href="http://geevi.github.io/publication/grad-group/">
-
+  <script src="/vex/js/vex.combined.min.js"></script>
+  <script>vex.defaultOptions.className = 'vex-theme-os'</script>
+  <link rel="stylesheet" href="/vex/css/vex.css" />
+  <link rel="stylesheet" href="/vex/css/vex-theme-os.css" />
+  
   
   
 
@@ -131,6 +135,23 @@
         
 
         <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#events">
             
             <span>Events</span>
@@ -168,6 +189,23 @@
           <a href="/#publications_selected">
             
             <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/pdfs/girish-resume.pdf">
+            
+            <span>CV</span>
             
           </a>
         </li>
@@ -288,7 +326,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9"><span style='color: orange'>Best Runner-Up Award, Oral Presentation</span><br/><a href='https://embeddedvisionworkshop.wordpress.com/'>IEEE Embedded Vision Workshop, CVPR</a></div>
+          <div class="col-xs-12 col-sm-9"><span style='color: orange'>Best Runner-Up Award, Oral Presentation</span><br/><a href='https://embeddedvisionworkshop.wordpress.com/'>IEEE Embedded Vision Workshop, CVPR&rsquo;18</a></div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -348,17 +386,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="/project/model-compression/">
-  model-compression
-</a>
-
-<a class="btn btn-primary btn-outline" href="/project/semantic-segmentation/">
-  semantic-segmentation
-</a>
-
-
-
           </div>
         </div>
       </div>
@@ -367,9 +394,22 @@
     <div class="visible-xs space-below"></div>
 
     <div class="space-below"></div>
+    
+    <h4>Bibtex</h4>
+    <div class="article-style">@InProceedings{Vallurupalli_2018_CVPR_Workshops,
+author = {Vallurupalli, Nikitha and Annamaneni, Sriharsha and Varma, Girish and Jawahar, C.V. and Mathew, Manu and Nagori, Soyeb},
+title = {Efficient Semantic Segmentation Using Gradual Grouping},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2018}
+}
+</div>
+    
 
+    <h4>Abstract</h4>
     <div class="article-style"><p>Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.</p>
 </div>
+
 
     
 

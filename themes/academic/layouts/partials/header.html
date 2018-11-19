@@ -14,7 +14,11 @@
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{ end }}
   <link rel="alternate" hreflang="{{ .Site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}">
-
+  <script src="/vex/js/vex.combined.min.js"></script>
+  <script>vex.defaultOptions.className = 'vex-theme-os'</script>
+  <link rel="stylesheet" href="/vex/css/vex.css" />
+  <link rel="stylesheet" href="/vex/css/vex-theme-os.css" />
+  
   {{ $scr := .Scratch }}
   {{ partial "css/parse_theme.css" . }}
   {{ $sri := .Site.Data.sri }}

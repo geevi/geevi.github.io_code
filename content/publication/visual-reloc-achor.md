@@ -20,11 +20,24 @@ publication_types = ["1"]
 publication = '''<span style='color: orange'>Spotlight Presentation</span><br/>British Machine Vision Conference (<strong>BMVC'18</strong>)'''
 #publication_short = "In *ACPR*"
 
+bibtex='''
+@inproceedings{SVJ18,
+  author    = {Soham Saha and
+               Girish Varma and
+               C. V. Jawahar},
+  title     = {Improved Visual Relocalization by Discovering Anchor Points},
+  booktitle = {British Machine Vision Conference 2018, {BMVC} 2018, Northumbria University,
+               Newcastle, UK, September 3-6, 2018},
+  pages     = {164},
+  year      = {2018},
+  url       = {http://bmvc2018.org/contents/papers/0962.pdf}
+}
+'''
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/achor.png"
+image_preview = "/img/achor.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,4 +75,17 @@ url_poster = "/pdfs/BMVC_2018_Poster.pdf"
 #caption = "My caption :smile:"
 
 +++
-#Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.
+We address the visual relocalization problem of predicting the location and camera
+orientation or pose (6DOF) of the given input scene. We propose a method based on how
+humans determine their location using the visible landmarks. We define anchor points
+uniformly across the route map and propose a deep learning architecture which predicts
+the most relevant anchor point present in the scene as well as the relative offsets with
+respect to it. The relevant anchor point need not be the nearest anchor point to the ground
+truth location, as it might not be visible due to the pose. Hence we propose a multi task
+loss function, which discovers the relevant anchor point, without needing the ground truth
+for it. We validate the effectiveness of our approach by experimenting on Cambridge
+Landmarks (large scale outdoor scenes) as well as 7 Scenes (indoor scenes) using various
+CNN feature extractors. Our method improves the median error in indoor as well as
+outdoor localization datasets compared to the previous best deep learning model known
+as PoseNet (with geometric re-projection loss) using the same feature extractor. We
+improve the median error in localization in the specific case of Street scene, by over 8m.

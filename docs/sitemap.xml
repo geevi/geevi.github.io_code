@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>http://geevi.github.io/publication/univ-seg/</loc>
+      <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/publication/idd/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://geevi.github.io/publication/xnet/</loc>
       <lastmod>2018-07-03T00:00:00+00:00</lastmod>
     </url>
@@ -68,15 +86,6 @@
     
     <url>
     
-      <loc>http://geevi.github.io/project/xnet/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://geevi.github.io/teaching/complexity-theory/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
@@ -96,15 +105,6 @@
     <url>
     
       <loc>http://geevi.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://geevi.github.io/project/deep-reinforcement-learning/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -176,6 +176,15 @@
     
     <url>
     
+      <loc>http://geevi.github.io/project/auto-nav/</loc>
+      <lastmod>2016-06-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://geevi.github.io/project/model-compression/</loc>
       <lastmod>2016-06-27T00:00:00+00:00</lastmod>
     </url>
@@ -194,7 +203,7 @@
     
     <url>
     
-      <loc>http://geevi.github.io/project/physarum-computer/</loc>
+      <loc>http://geevi.github.io/project/pcps/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,7 +212,7 @@
     
     <url>
     
-      <loc>http://geevi.github.io/project/pcps/</loc>
+      <loc>http://geevi.github.io/project/physarum-computer/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -356,14 +365,6 @@
     
     <url>
     
-      <loc>http://geevi.github.io/teaching/complexity-theory/notes/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://geevi.github.io/publication_types/0/</loc>
       <lastmod>2014-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -375,7 +376,7 @@
     <url>
     
       <loc>http://geevi.github.io/publication_types/1/</loc>
-      <lastmod>2018-07-03T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -404,37 +405,7 @@
     
     <url>
     
-      <loc>http://geevi.github.io/tags/algorithms/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://geevi.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://geevi.github.io/tags/complexity-theory/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://geevi.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -454,7 +425,7 @@
     <url>
     
       <loc>http://geevi.github.io/project/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2016-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -484,6 +455,36 @@
     <url>
     
       <loc>http://geevi.github.io/teaching/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/tags/algorithms/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/tags/complexity-theory/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/tags/deep-learning/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

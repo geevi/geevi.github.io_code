@@ -17,14 +17,26 @@ authors = ["Sudhir Kumar Reddy", "Girish Varma", '''<a href="https://faculty.iii
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Intelligent Robots (<strong>IROS'18</strong>)"
+publication = '''<span style='color: orange'>JTCF Novel Technology paper award Finalist</span>
+<br/>International Conference on Intelligent Robots (<strong>IROS'18</strong>)'''
 #publication_short = "In *ACPR*"
+
+bibtex='''
+@inproceedings{YVJ18,
+  author    = {Sudhir Yarram and
+               Girish Varma and
+               C. V. Jawahar},
+  title     = {City-Scale Road Audit System using Deep Learning},
+  booktitle = {International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain, 2018},
+  year      = {2018}
+}
+'''
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/audit.png"
+image_preview = "/img/audit.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,4 +74,4 @@ url_slides = "/pdfs/IROS18-slides.pdf"
 #caption = "My caption :smile:"
 
 +++
-Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.
+Road networks in cities are massive and is a critical component of mobility. Fast response to defects, that can occur not only due to regular wear and tear but also because of extreme events like storms, is essential. Hence there is a need for an automated system that is quick, scalable and cost-effective for gathering information about defects. We propose a system for city-scale road audit, using some of the most recent developments in deep learning and semantic segmentation. For building and benchmarking the system, we curated a dataset which has annotations required for road defects. However, many of the labels required for road audit have high ambiguity which we overcome by proposing a label hierarchy. We also propose a multi-step deep learning model that segments the road, subdivide the road further into defects, tags the frame for each defect and finally localizes the defects on a map gathered using GPS. We analyze and evaluate the models on image tagging as well as segmentation at different levels of the label hierarchy.

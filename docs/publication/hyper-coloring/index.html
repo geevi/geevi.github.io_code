@@ -6,13 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.31" />
+  <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Girish Varma">
   <meta name="description" content="Senior Project Scientist">
 
   
   <link rel="alternate" hreflang="en-us" href="http://geevi.github.io/publication/hyper-coloring/">
-
+  <script src="/vex/js/vex.combined.min.js"></script>
+  <script>vex.defaultOptions.className = 'vex-theme-os'</script>
+  <link rel="stylesheet" href="/vex/css/vex.css" />
+  <link rel="stylesheet" href="/vex/css/vex-theme-os.css" />
+  
   
   
 
@@ -131,6 +135,23 @@
         
 
         <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#events">
             
             <span>Events</span>
@@ -168,6 +189,23 @@
           <a href="/#publications_selected">
             
             <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/pdfs/girish-resume.pdf">
+            
+            <span>CV</span>
             
           </a>
         </li>
@@ -344,13 +382,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="/project/hardness/">
-  hardness
-</a>
-
-
-
           </div>
         </div>
       </div>
@@ -359,7 +390,9 @@
     <div class="visible-xs space-below"></div>
 
     <div class="space-below"></div>
+    
 
+    <h4>Abstract</h4>
     <div class="article-style"><p>We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &lsquo;short code&rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on n-vertex hyper-graphs:</p>
 
 <ul>
@@ -370,6 +403,7 @@
 
 <p>In each of these cases, the hardness results obtained are (at least) exponentially stronger than what was previously known for the respective cases. In fact, prior to this result, polylog n colors was the strongest quantitative bound on the number of colors ruled out by inapproximability results for O(1)-colorable hypergraphs. The fundamental bottleneck in obtaining coloring inapproximability results using the low- degree long code was a multipartite structural restriction in the PCP construction of Dinur-Guruswami. We are able to get around this restriction by simulating the multipartite structure implicitly by querying just one partition (albeit requiring 8 queries), which yields our result for 2-colorable 8-uniform hypergraphs. The result for 4-colorable 4-uniform hypergraphs is obtained via a &lsquo;query doubling&rsquo; method. For 3-colorable 3-uniform hypergraphs, we exploit the ternary domain to design a test with an additive (as opposed to multiplicative) noise function, and analyze its efficacy in killing high weight Fourier coefficients via the pseudorandom properties of an associated quadratic form.</p>
 </div>
+
 
     
 

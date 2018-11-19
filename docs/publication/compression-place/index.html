@@ -6,13 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.31" />
+  <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Girish Varma">
   <meta name="description" content="Senior Project Scientist">
 
   
   <link rel="alternate" hreflang="en-us" href="http://geevi.github.io/publication/compression-place/">
-
+  <script src="/vex/js/vex.combined.min.js"></script>
+  <script>vex.defaultOptions.className = 'vex-theme-os'</script>
+  <link rel="stylesheet" href="/vex/css/vex.css" />
+  <link rel="stylesheet" href="/vex/css/vex-theme-os.css" />
+  
   
   
 
@@ -131,6 +135,23 @@
         
 
         <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#events">
             
             <span>Events</span>
@@ -168,6 +189,23 @@
           <a href="/#publications_selected">
             
             <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/pdfs/girish-resume.pdf">
+            
+            <span>CV</span>
             
           </a>
         </li>
@@ -348,13 +386,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="/project/model-compression/">
-  model-compression
-</a>
-
-
-
           </div>
         </div>
       </div>
@@ -363,9 +394,12 @@
     <div class="visible-xs space-below"></div>
 
     <div class="space-below"></div>
+    
 
+    <h4>Abstract</h4>
     <div class="article-style"><p>Visual place recognition on low memory devices such as mobile phones and robotics systems is a challenging problem. The state of the art models for this task uses deep learning architectures having close to 100 million parameters which takes over 400MB of memory. This makes these models infeasible to be deployed in low memory devices and gives rise to the need of compressing them. Hence we study the effectiveness of model compression techniques like trained quantization and pruning for reducing the number of parameters on one of the best performing image retrieval models called NetVLAD. We show that a compressed network can be created by starting with a model pre-trained for the task of visual place recognition and then fine-tuning it via trained pruning and quantization. The compressed model is able to produce the same mAP as the original uncompressed network. We achieve almost 50% parameter pruning with no loss in mAP and 70% pruning with close to 2% mAP reduction, while also performing 8-bit quantization. Furthermore, together with 5-bit quantization, we perform about 50% parameter reduction by pruning and get only about 3% reduction in mAP.</p>
 </div>
+
 
     
 

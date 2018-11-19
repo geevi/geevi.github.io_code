@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithms on Girish varma</title>
+    <link>http://geevi.github.io/tags/algorithms/</link>
+    <description>Recent content in algorithms on Girish varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Girish Varma</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geevi.github.io/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Physarum Computer</title>
+      <link>http://geevi.github.io/project/physarum-computer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/project/physarum-computer/</guid>
+      <description>Formal proof for slime-molds finding shortest paths in maze.</description>
+    </item>
+    
+    <item>
+      <title>Streaming Algorithms</title>
+      <link>http://geevi.github.io/project/streaming/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/project/streaming/</guid>
+      <description>Few pass, small memory algorithms for big data.</description>
+    </item>
+    
+  </channel>
+</rss>

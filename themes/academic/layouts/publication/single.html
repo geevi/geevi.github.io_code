@@ -90,8 +90,14 @@
     <div class="visible-xs space-below"></div>
 
     <div class="space-below"></div>
+    {{ if .Params.bibtex }}
+    <h4>Bibtex</h4>
+    <div class="article-style">{{.Params.bibtex}}</div>
+    {{ end }}
 
+    <h4>Abstract</h4>
     <div class="article-style">{{ .Content }}</div>
+
 
     {{ partial "tags.html" . }}
 

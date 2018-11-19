@@ -8,13 +8,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.31" />
+  <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Girish Varma">
   <meta name="description" content="Senior Project Scientist">
 
   
   <link rel="alternate" hreflang="en-us" href="http://geevi.github.io/publication_types/1/">
-
+  <script src="/vex/js/vex.combined.min.js"></script>
+  <script>vex.defaultOptions.className = 'vex-theme-os'</script>
+  <link rel="stylesheet" href="/vex/css/vex.css" />
+  <link rel="stylesheet" href="/vex/css/vex-theme-os.css" />
+  
   
   
 
@@ -51,8 +55,8 @@
   
 
   
-  <link rel="alternate" href="http://geevi.github.io/index.xml" type="application/rss+xml" title="Girish varma">
-  <link rel="feed" href="http://geevi.github.io/index.xml" type="application/rss+xml" title="Girish varma">
+  <link rel="alternate" href="http://geevi.github.io/publication_types/1/index.xml" type="application/rss+xml" title="Girish varma">
+  <link rel="feed" href="http://geevi.github.io/publication_types/1/index.xml" type="application/rss+xml" title="Girish varma">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -72,7 +76,7 @@
   <meta property="og:description" content="Senior Project Scientist">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2018-07-03T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2018-11-16T00:00:00&#43;00:00">
   
 
   
@@ -117,6 +121,23 @@
           <a href="/#about">
             
             <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
             
           </a>
         </li>
@@ -182,6 +203,23 @@
         
 
         <li class="nav-item">
+          <a href="/pdfs/girish-resume.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#contact">
             
             <span>Contact</span>
@@ -213,10 +251,28 @@
   
   
   <div>
+    <h2><a href="http://geevi.github.io/publication/univ-seg/">Universal Semi-supervised Semantic Segmentation</a></h2>
+    <div class="article-style">
+      
+      In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="http://geevi.github.io/publication/idd/">IDD: A Dataset for exploring problems in Autonomous Navigation in Unconstrained Environments</a></h2>
+    <div class="article-style">
+      
+      While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="http://geevi.github.io/publication/xnet/">Deep Expander Networks: Efficient Deep Networks from Graph Theory</a></h2>
     <div class="article-style">
       
-      #Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.
+      Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs.
       
     </div>
   </div>
@@ -225,7 +281,7 @@
     <h2><a href="http://geevi.github.io/publication/visual-reloc-achor/">Improved Visual Relocalization by Discovering Anchor Points</a></h2>
     <div class="article-style">
       
-      #Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.
+      We address the visual relocalization problem of predicting the location and camera orientation or pose (6DOF) of the given input scene. We propose a method based on how humans determine their location using the visible landmarks. We define anchor points uniformly across the route map and propose a deep learning architecture which predicts the most relevant anchor point present in the scene as well as the relative offsets with respect to it.
       
     </div>
   </div>
@@ -234,7 +290,7 @@
     <h2><a href="http://geevi.github.io/publication/road-audit/">Cityscale Road Audit System using Deep Learning</a></h2>
     <div class="article-style">
       
-      Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.
+      Road networks in cities are massive and is a critical component of mobility. Fast response to defects, that can occur not only due to regular wear and tear but also because of extreme events like storms, is essential. Hence there is a need for an automated system that is quick, scalable and cost-effective for gathering information about defects. We propose a system for city-scale road audit, using some of the most recent developments in deep learning and semantic segmentation.
       
     </div>
   </div>
@@ -252,7 +308,7 @@
     <h2><a href="http://geevi.github.io/publication/class2str/">Class2Str: End to End Latent Hierarchy Learning</a></h2>
     <div class="article-style">
       
-      Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.
+      Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes.
       
     </div>
   </div>
@@ -280,23 +336,6 @@
     <div class="article-style">
       
       In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the &amp;ldquo;majority is stablest&amp;rdquo; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://geevi.github.io/publication/hyper-coloring/">Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</a></h2>
-    <div class="article-style">
-      
-      We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &lsquo;short code&rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on n-vertex hyper-graphs:
- Coloring a 2-colorable 8-uniform hypergraph with 22Ω(loglogn√) colors. Coloring a 4-colorable 4-uniform hypergraph with 22Ω(loglogn√) colors. Coloring a 3-colorable 3-uniform hypergraph with (logn)Ω(1/logloglogn) colors.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="http://geevi.github.io/publication/slime-mold/">Physarum Can Compute Shortest Paths</a></h2>
-    <div class="article-style">
       
     </div>
   </div>

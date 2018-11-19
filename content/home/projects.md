@@ -29,8 +29,8 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Computer Vision"
-  tag = ".computer-vision"
+  name = "Deep Learning"
+  tag = ".deep-learning"
 
 [[filter]]
   name = "Algorithms"

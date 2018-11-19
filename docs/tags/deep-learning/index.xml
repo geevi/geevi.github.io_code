@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-learning on Girish varma</title>
+    <link>http://geevi.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep-learning on Girish varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Girish Varma</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geevi.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient CNNs</title>
+      <link>http://geevi.github.io/teaching/efficient-cnns/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/teaching/efficient-cnns/</guid>
+      <description>Deep Neural Networks, while being unreasonably effective for several vision tasks, have their usage limited by the computational and memory requirements, both during training and inference stages. Analyzing and improving the connectivity patterns between layers of a network has resulted in several compact architectures like GoogleNet, ResNet and DenseNet-BC. We survey the most recent developments giving CNN architectures with better error vs resourse (parameters/FLOPs/energy/memory/fps) tradeoffs.
+We also plan to learn how to do fast implementations of CNNs in existing processing architectures.</description>
+    </item>
+    
+    <item>
+      <title>Multi Object Tracking using Deep Learning</title>
+      <link>http://geevi.github.io/teaching/mot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/teaching/mot/</guid>
+      <description>Multi Object Tracking is the task tracking objects in video frames. We survey the various types of MOT methods, with special focus on the latest methods that use Deep Learning.
+Papers  Learning to Track: Online Multi-object Tracking by Decision Making
+ ICCV&amp;rsquo;15 Yu Xiang, Alexandre Alahi, Silvio Savarese cvgl.stanford.edu/papers/xiang_iccv15.pdf  Online Multi-Target Tracking Using Recurrent Neural Networks
+ AAAI&amp;rsquo;17 Anton Milan, Seyed Hamid Rezatofighi, Anthony Dick, Ian Reid, Konrad Schindler https://arxiv.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Navigation &amp; Transporation</title>
+      <link>http://geevi.github.io/project/auto-nav/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/project/auto-nav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Compression</title>
+      <link>http://geevi.github.io/project/model-compression/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/project/model-compression/</guid>
+      <description> Students  Soham Saha  slides R &amp;amp; D Showcase &amp;lsquo;16 poster  Ameya Prabhu  Final Report   </description>
+    </item>
+    
+  </channel>
+</rss>

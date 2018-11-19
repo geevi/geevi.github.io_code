@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20
 
 title = "Selected Publications"
-subtitle = "[All Publications](https://scholar.google.co.in/citations?user=YLlRCu4AAAAJ&hl=en)"
+subtitle = '''[All Publications](/publication)<br/>[Google Scholar](https://scholar.google.co.in/citations?user=YLlRCu4AAAAJ&hl=en)'''
 
 # Order that this section will appear in.
 weight = 10

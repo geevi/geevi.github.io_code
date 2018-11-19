@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Girish Varma</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://geevi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Deep Learning Programming &amp; Deployment</title>

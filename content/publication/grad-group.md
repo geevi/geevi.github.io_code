@@ -17,17 +17,27 @@ authors = ["Nikitha Vallurupalli", "Sriharsha Annamaneni", "Girish Varma", '''<a
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Best Runner-Up Award, Oral Presentation</span><br/><a href='https://embeddedvisionworkshop.wordpress.com/'>IEEE Embedded Vision Workshop, CVPR</a>'''
+publication = '''<span style='color: orange'>Best Runner-Up Award, Oral Presentation</span><br/><a href='https://embeddedvisionworkshop.wordpress.com/'>IEEE Embedded Vision Workshop, CVPR'18</a>'''
 #publication_short = "In *ACPR*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/grad.png"
+image_preview = "/img/grad.png"
 
 # Is this a selected publication? (true/false)
 selected = false
+
+bibtex='''
+@InProceedings{Vallurupalli_2018_CVPR_Workshops,
+author = {Vallurupalli, Nikitha and Annamaneni, Sriharsha and Varma, Girish and Jawahar, C.V. and Mathew, Manu and Nagori, Soyeb},
+title = {Efficient Semantic Segmentation Using Gradual Grouping},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2018}
+}
+'''
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -172,6 +172,12 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
 }
+
+.modal-backdrop {
+  /* bug fix - no overlay */    
+  display: none;    
+}
+
 @media (min-width: 30em) {
   blockquote {
     padding-right: 5rem;
@@ -186,6 +192,7 @@ blockquote p:last-child {
   .space-below {
     margin-bottom: 10px;
   }
+
 
 .pub-list-item img {
 	min-height: 100px; 
@@ -1454,4 +1461,15 @@ section.home-section {
 
 .pub-list-item p {
   margin-bottom: 10px
+}
+
+.modal-dialog {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  width:500px;
+  height:300px;
 }
