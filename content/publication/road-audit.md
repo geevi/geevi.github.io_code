@@ -48,7 +48,7 @@ projects = ["auto-nav"]
 
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
-#url_preprint = "https://arxiv.org/abs/1711.08757"
+url_preprint = "https://arxiv.org/abs/1811.10210"
 url_code = "https://github.com/Sudhir11292rt/City-scale-Road-Audit"
 url_dataset = "http://cvit.iiit.ac.in/images/Projects/city-scale-roadaudit/release_version_v1.zip"
 url_project = "http://cvit.iiit.ac.in/research/projects/cvit-projects/city-scale-road-audit"

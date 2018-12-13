@@ -6,7 +6,7 @@ date = "2018-11-16"
 authors = [
     '''Tarun Kalluri''', 
     "Girish Varma", 
-    '''<a href="http://cseweb.ucsd.edu/~mkchandraker/">Manmohan Chandrakar</a>''',
+    '''<a href="http://cseweb.ucsd.edu/~mkchandraker/">Manmohan Chandraker</a>''',
     '''<a href='https://faculty.iiit.ac.in/~jawahar/'>C V Jawahar</a>'''
 ]
 
@@ -41,7 +41,7 @@ projects = ["auto-nav"]
 
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
-#url_preprint = "https://arxiv.org/abs/1711.08757"
+url_preprint = "https://arxiv.org/abs/1811.10323"
 #url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
 #url_dataset = "#"
 #url_project = "#"
@@ -63,7 +63,7 @@ projects = ["auto-nav"]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
+#image = "/img/uni-seg.jpg"
 #caption = "My caption :smile:"
 
 +++

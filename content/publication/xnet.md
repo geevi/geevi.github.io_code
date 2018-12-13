@@ -57,9 +57,9 @@ projects = ["model-compression"]
 url_preprint = "https://arxiv.org/abs/1711.08757"
 url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
 #url_dataset = "#"
-#url_project = "#"
-#url_slides = "#"
-#url_video = "#"
+url_project = "http://cvit.iiit.ac.in/projects/xnet/"
+url_slides = "/pdfs/xnet.pdf"
+url_video = "https://www.youtube.com/watch?v=0poGlFx1OBU"
 url_poster = "/pdfs/ECCV18.pdf"
 #url_source = "#"
 

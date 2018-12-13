@@ -20,7 +20,7 @@
   <p>
       {{if .Params.bibtex}}
       <a class="btn btn-primary btn-outline btn-xs" href="#{{.File.BaseFileName}}" data-toggle="modal">
-          Bibtex
+          bibtex
         </a>
       {{ end }}
     {{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>

@@ -5,7 +5,7 @@
 
 {{ with $.Params.url_preprint }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
-  {{ i18n "btn_preprint" }}
+  arXiv
 </a>
 {{ end }}
 {{ with $.Params.url_pdf }}

@@ -51,12 +51,12 @@ projects = ["auto-nav"]
 
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
-#url_preprint = "https://arxiv.org/abs/1711.08757"
+url_preprint = "https://arxiv.org/abs/1811.10200"
 #url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
-url_dataset = "http://cvit.iiit.ac.in/scene-understanding-challenge-2018/"
-url_project = "http://cvit.iiit.ac.in/scene-understanding-challenge-2018/"
-#url_slides = "#"
-#url_video = "#"
+url_dataset = "http://idd.insaan.iiit.ac.in"
+url_project = "http://insaan.iiit.ac.in"
+url_slides = "/pdfs/idd.pdf"
+url_video = "https://docs.google.com/file/d/1eELxtxx7RutTxWtMHOKHRE_IsLa7uWmp/preview"
 #url_poster = "/pdfs/ECCV18.pdf"
 #url_source = "#"
 
@@ -73,7 +73,7 @@ url_project = "http://cvit.iiit.ac.in/scene-understanding-challenge-2018/"
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
+#image = "/img/idd.jpg"
 #caption = "My caption :smile:"
 
 +++

@@ -47,7 +47,7 @@ projects = ["model-compression", "auto-nav"]
 # Links (optional).
 url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
 #url_preprint = "https://arxiv.org/abs/1711.08757"
-#url_code = "#"
+url_code = "https://github.com/nikitha96/Semantic-Segmentation"
 #url_dataset = "#"
 #url_project = "#"
 url_slides = "/pdfs/cvpr-evw-18-slides.pdf"

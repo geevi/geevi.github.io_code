@@ -630,6 +630,7 @@ article {
 
 .pub .pub-authors {
   font-style: italic;
+  font-size: 12pt;
   line-height: 30px; /* Match share bar line height. */
 }
 

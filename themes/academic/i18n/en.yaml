@@ -17,31 +17,31 @@
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: arXiv
 
 - id: btn_pdf
-  translation: PDF
+  translation: pdf
 
 - id: btn_cite
-  translation: Cite
+  translation: cite
 
 - id: btn_slides
-  translation: Slides
+  translation: slides
 
 - id: btn_video
-  translation: Video
+  translation: video
 
 - id: btn_code
-  translation: Code
+  translation: code
 
 - id: btn_dataset
-  translation: Dataset
+  translation: dataset
 
 - id: btn_project
-  translation: Project
+  translation: project
 
 - id: btn_poster
-  translation: Poster
+  translation: poster
 
 - id: btn_source
   translation: Source Document
